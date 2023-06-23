@@ -1,4 +1,4 @@
-# Nombre del Proyecto Backend
+# Proyectos Inmobiliarios Backend
 
 Este proyecto es el backend del sitio web de proyectos inmobiliarios desarrollado utilizando Express.js y otras tecnologías relacionadas. A continuación, se describen los componentes y funcionalidades implementadas.
 
@@ -18,7 +18,7 @@ El proyecto backend ha sido desarrollado utilizando las siguientes tecnologías:
 
 - __Express.js:__ Framework de desarrollo web para Node.js utilizado como servidor HTTP.
 
-- __Base de Datos:__ Se ha utilizado un array dentro del controlador de usuarios en el Backend como base de datos.
+- __Base de Datos:__ Se ha utilizado un array dentro del controlador de usuarios en el Backend como simulación de base de datos.
 
 - __Autenticación:__ Se ha implementado un sistema de autenticación utilizando JSON Web Tokens (JWT).
 
