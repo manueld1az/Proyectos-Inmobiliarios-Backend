@@ -1,6 +1,6 @@
 # Proyectos Inmobiliarios Backend
 
-Este proyecto es el backend del sitio web de proyectos inmobiliarios desarrollado utilizando Express.js y otras tecnologías relacionadas. A continuación, se describen los componentes y funcionalidades implementadas.
+Este proyecto es el backend del sitio web de proyectos inmobiliarios desarrollado utilizando Express.js, a continuación, se describen los componentes y funcionalidades implementadas.
 
 ## Descripción del Proyecto
 
