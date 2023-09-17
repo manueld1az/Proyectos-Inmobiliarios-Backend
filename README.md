@@ -29,8 +29,9 @@ Para ejecutar el proyecto backend debe tener instalado `node` y `npm`.
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias utilizando el comando `npm install`.
 3. Configura las variables de entorno necesarias para el funcionamiento del proyecto;
-   - Archivo `.env` que se encuentra en este repositorio solo funcionara si no ha modificado el puerto de Express por default.
-   - Llave de `JWT` o la url del server Frontend en etapa de desarrollo el localhost y el puerto.<br>
+   - Archivo `.env`.
+   - Llave de `JWT`.
+   - Url del server Frontend en etapa de desarrollo el localhost y el puerto.<br>
 5. Ejecuta el comando `npm run dev` para iniciar el servidor con `nodemon` y estar pendiente de los mensajes de la terminal.
 6. El backend estará disponible en el puerto proporcionada por el servidor en la terminal.
 
